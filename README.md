@@ -1,19 +1,11 @@
-Desenvolvimento de Site Dinâmico com Integração ao Google Sheets
+👋 Olá, sou ThiagoB170!
+🎓 Estudante de Engenharia de Software desde agosto de 2023, sempre em busca de novos desafios e oportunidades de aprendizado.
 
-Descrição do Projeto:
-Estou procurando um desenvolvedor web para criar um site dinâmico que exiba dados de duas abas de uma planilha do Google Sheets. As duas abas são "Trocas Pendentes" e "Trocas Resolvidas". O site deve incluir:
+💻 Apaixonado por desenvolvimento, com habilidades em JavaScript, PHP, Python e HTML. Tenho vários projetos no GitHub que refletem minha jornada de aprendizado:
 
-Uma barra de pesquisa para filtrar os dados.
-Atualização automática dos dados sempre que a planilha for alterada.
-Visualização dos dados em formato de tabela.
-Requisitos Técnicos:
+Multilingual Translator: Tradutor que converte qualquer fala para a região escolhida.
+Trabalho Faculdade: Um projeto acadêmico mais simples, focado em conceitos aprendidos na faculdade.
+Site: Meu site pessoal, onde exploro ideias e projetos de forma criativa.
+🚀 Estou sempre aprendendo e aprimorando minhas habilidades, e adoro contribuir com a comunidade de código aberto.
 
-Uso de HTML, CSS, e JavaScript.
-Integração com Google Sheets API.
-Experiência com bibliotecas de tabelas como DataTables (preferencial).
-Prazo:
-Desejo que o projeto seja concluído em até 2 semanas.
-
-
-Comunicação:
-Prefiro comunicação via [e-mail,whats].
+📫 Fique à vontade para explorar meus repositórios e entrar em contato!
